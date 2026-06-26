@@ -95,11 +95,10 @@ StudentCourseProject
 
 ---
 
-## Sample Menu
+## OUTPUT
 
 ```
 ===== Student Course Management =====
-
 1. Add Student
 2. Add Course
 3. Assign Course
@@ -108,6 +107,183 @@ StudentCourseProject
 6. Show All Students
 7. Show All Courses
 8. Exit
+Enter your choice: 1
+Student ID : 101
+Name : bhanu
+Email : bhanu@gmail.com
+Phone : 234567881
+College : gvp
+Student Added Successfully
+
+===== Student Course Management =====
+1. Add Student
+2. Add Course
+3. Assign Course
+4. Show Student Details
+5. Show Course Details
+6. Show All Students
+7. Show All Courses
+8. Exit
+Enter your choice: 1
+Student ID : 102
+Name : siri
+Email : siri@gmail.com
+Phone : 2359879999
+College : vignan
+Student Added Successfully
+
+===== Student Course Management =====
+1. Add Student
+2. Add Course
+3. Assign Course
+4. Show Student Details
+5. Show Course Details
+6. Show All Students
+7. Show All Courses
+8. Exit
+Enter your choice: 2
+Course ID : 1
+Course Name : python
+Duration : 4months
+Trainer Name : priyanka
+Fees : 40000
+Course Added Successfully
+
+===== Student Course Management =====
+1. Add Student
+2. Add Course
+3. Assign Course
+4. Show Student Details
+5. Show Course Details
+6. Show All Students
+7. Show All Courses
+8. Exit
+Enter your choice: 2
+Course ID : 2
+Course Name : java
+Duration : 4months
+Trainer Name : sailu
+Fees : 3000
+Course Added Successfully
+
+===== Student Course Management =====
+1. Add Student
+2. Add Course
+3. Assign Course
+4. Show Student Details
+5. Show Course Details
+6. Show All Students
+7. Show All Courses
+8. Exit
+Enter your choice: 3
+Students
+0 : bhanu
+1 : siri
+Select Student : 0
+Courses
+0 : python
+1 : java
+Select Course : 0
+Course Assigned Successfully
+
+===== Student Course Management =====
+1. Add Student
+2. Add Course
+3. Assign Course
+4. Show Student Details
+5. Show Course Details
+6. Show All Students
+7. Show All Courses
+8. Exit
+Enter your choice: 4
+Enter Student Number : 0
+Student ID : 101
+Name : bhanu
+Email : bhanu@gmail.com
+Phone : 234567881
+College : gvp
+Course : python
+
+===== Student Course Management =====
+1. Add Student
+2. Add Course
+3. Assign Course
+4. Show Student Details
+5. Show Course Details
+6. Show All Students
+7. Show All Courses
+8. Exit
+Enter your choice: 5
+Enter Course Number : 0
+Course ID : 1
+Course Name : python
+Duration : 4months
+Trainer : priyanka
+Fees : 40000.0
+
+===== Student Course Management =====
+1. Add Student
+2. Add Course
+3. Assign Course
+4. Show Student Details
+5. Show Course Details
+6. Show All Students
+7. Show All Courses
+8. Exit
+Enter your choice: 6
+
+Student 1
+Student ID : 101
+Name : bhanu
+Email : bhanu@gmail.com
+Phone : 234567881
+College : gvp
+Course : python
+
+Student 2
+Student ID : 102
+Name : siri
+Email : siri@gmail.com
+Phone : 2359879999
+College : vignan
+Course : null
+
+===== Student Course Management =====
+1. Add Student
+2. Add Course
+3. Assign Course
+4. Show Student Details
+5. Show Course Details
+6. Show All Students
+7. Show All Courses
+8. Exit
+Enter your choice: 7
+
+Course 1
+Course ID : 1
+Course Name : python
+Duration : 4months
+Trainer : priyanka
+Fees : 40000.0
+
+Course 2
+Course ID : 2
+Course Name : java
+Duration : 4months
+Trainer : sailu
+Fees : 3000.0
+
+===== Student Course Management =====
+1. Add Student
+2. Add Course
+3. Assign Course
+4. Show Student Details
+5. Show Course Details
+6. Show All Students
+7. Show All Courses
+8. Exit
+Enter your choice: 8
+Thank You
 ```
 
 ---
